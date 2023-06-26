@@ -35,5 +35,12 @@ My work would base on existing code on caMicroscope (Frontend) and Caracal (Back
 <img width="278" alt="Screenshot 2023-06-19 at 1 40 20" src="https://github.com/BryanGsep/GSoC_2023_caMicroscope_Report/assets/77573775/f0255046-a151-4f04-b002-78b9cf288c82">
 
 ### Week 4 (June 19th - June 25th)
+* Create Annotation Assistant UI which integrate segmentation model into view page in right side of screen. It can be toggled when click on `preset-label` button
+* UI incude
++ Model management (Add model, enable annotation assistant, choose model, choose pixel scale and show model info)
++ Assistant Mode (Draw, Click, ROI) (The drawing method which annotation assistant can support)
++ Assistant Setting (Radius, Threshold, Roughness) (Model parameter which could be change when draw mode change)
+
+<img width="526" alt="Screenshot 2023-06-26 at 19 28 56" src="https://github.com/BryanGsep/GSoC_2023_caMicroscope_Report/assets/77573775/a8087819-b021-4861-ac46-84276c699a43">
 
 
