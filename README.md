@@ -43,4 +43,17 @@ My work would base on existing code on caMicroscope (Frontend) and Caracal (Back
 
 <img width="526" alt="Screenshot 2023-06-26 at 19 28 56" src="https://github.com/BryanGsep/GSoC_2023_caMicroscope_Report/assets/77573775/a8087819-b021-4861-ac46-84276c699a43">
 
+### Week 5 (June 26th - July 2nd)
+* Implement prototype for machine learning annotation by drawing
++ Working principle:
+  - Processing user drawing input and model generated mask to predict the best fit boundary
+
+<img width="526" alt="Screenshot 2023-07-12 at 19 28 49" src="https://github.com/BryanGsep/GSoC_2023_caMicroscope_Report/assets/77573775/cfdcdd7c-a4b1-4930-9e68-88ac3382906d">
+
+### Week 6 (July 3rd - July 9th)
+* Integrate machine learning annotation by drawing with Machine learning Assistant panel
+* Add two new parameter ```Kernel Size``` and ```Iteration``` to allow user choosing their separation level
+* Add two regions for ```Processed Image``` and ```Model predicted image```
+
+<img width="251" alt="Screenshot 2023-07-12 at 19 30 41" src="https://github.com/BryanGsep/GSoC_2023_caMicroscope_Report/assets/77573775/41150eb1-8461-4cf5-aaf9-bba1c7259f9c">
 
