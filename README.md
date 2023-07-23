@@ -57,3 +57,8 @@ My work would base on existing code on caMicroscope (Frontend) and Caracal (Back
 
 <img width="251" alt="Screenshot 2023-07-12 at 19 30 41" src="https://github.com/BryanGsep/GSoC_2023_caMicroscope_Report/assets/77573775/41150eb1-8461-4cf5-aaf9-bba1c7259f9c">
 
+### Week 7 (July 10th - July 16th)
+* Optimize logic for annotation by draw
+* Implement ```Annotation many``` function
+
+
