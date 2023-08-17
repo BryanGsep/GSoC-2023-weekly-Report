@@ -61,4 +61,24 @@ My work would base on existing code on caMicroscope (Frontend) and Caracal (Back
 * Optimize logic for annotation by draw
 * Implement ```Annotation many``` function
 
+### Week 8 (July 17th - July 23rd)
+* Add ```add model``` modal and ```model info``` modal load method
+* Turn ```endNewFeature``` function into asynchornous function
+* Add undo functions within ```annotation assistant```
+* Disable assistant mode when assistant menu close
 
+### Week 9 (July 24th - July 30th)
+* Change UI of ```annotation assistant``` and its openning method
+* Intergrate annotation assistant into preset label mode (Enable user to use ```annotation assistant``` to make Polygon and Brush annotation)
+
+### Week 10 (July 31st - August 6th)
+* Optimize find contour algorithm (Reduce time to return annotation from ```annotation assistant```)
+* Fix non array and inaccurate grids return from ```annotation assistant```
+
+### Week 11 (July 7th - July 13rd)
+* Change mouse up handler method in ```annotation edit``` function
+* Enable remove and add annotation point in ```annotation edit``` function by right click
+
+### Week 12 (July 13rd - July 20th)
+* Disable undo when open ```annotation assistant``` on presetlabel
+* Write usage guidance document
